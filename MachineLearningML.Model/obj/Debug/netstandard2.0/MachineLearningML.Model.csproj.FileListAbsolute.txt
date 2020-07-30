@@ -1,0 +1,10 @@
+C:\Users\abmoh\source\repos\MachineLearning\MachineLearningML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\abmoh\source\repos\MachineLearning\MachineLearningML.Model\bin\Debug\netstandard2.0\MachineLearningML.Model.deps.json
+C:\Users\abmoh\source\repos\MachineLearning\MachineLearningML.Model\bin\Debug\netstandard2.0\MachineLearningML.Model.dll
+C:\Users\abmoh\source\repos\MachineLearning\MachineLearningML.Model\bin\Debug\netstandard2.0\MachineLearningML.Model.pdb
+C:\Users\abmoh\source\repos\MachineLearning\MachineLearningML.Model\obj\Debug\netstandard2.0\MachineLearningML.Model.csprojAssemblyReference.cache
+C:\Users\abmoh\source\repos\MachineLearning\MachineLearningML.Model\obj\Debug\netstandard2.0\MachineLearningML.Model.csproj.CoreCompileInputs.cache
+C:\Users\abmoh\source\repos\MachineLearning\MachineLearningML.Model\obj\Debug\netstandard2.0\MachineLearningML.Model.AssemblyInfoInputs.cache
+C:\Users\abmoh\source\repos\MachineLearning\MachineLearningML.Model\obj\Debug\netstandard2.0\MachineLearningML.Model.AssemblyInfo.cs
+C:\Users\abmoh\source\repos\MachineLearning\MachineLearningML.Model\obj\Debug\netstandard2.0\MachineLearningML.Model.dll
+C:\Users\abmoh\source\repos\MachineLearning\MachineLearningML.Model\obj\Debug\netstandard2.0\MachineLearningML.Model.pdb
